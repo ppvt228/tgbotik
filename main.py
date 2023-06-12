@@ -3,7 +3,7 @@ import random
 # эта тема помогает создать разные штуки для клавиатуры телеграма, типа тех же кнопок в дайвинчике и прочая шняга
 from telebot import types
 
-bot_token = '6192523577:AAGxFU3Rk-iugFKdg2fg86cgu1SFPX382_k'
+bot_token = 'token'
 bot = telebot.TeleBot(token=bot_token)
 
 # Список идей в виде словаря, можно добавлять вручную че хочешь
